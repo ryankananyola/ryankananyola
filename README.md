@@ -4,7 +4,7 @@ Yohanes Febryan Kana Nyola | Yogyakarta, Indonesia
 
 ###  📋 Stats
 
-[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=ryankananyola&theme=material-palenight&compact=true&layout=compact)](https://github.com/ryankananyola/)
+[![Top Langs](https://readmestats.99985.xyz/api/top-langs/?username=ryankananyola&theme=material-palenight&compact=true&layout=compact)](https://github.com/ryankananyola/)
 
 ###  ✉ How to reach me
 
