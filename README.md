@@ -1,6 +1,7 @@
-Hi there!
+Hi there!🙌
 
 Yohanes Febryan Kana Nyola | Yogyakarta, Indonesia
+
 
 <!---
 ryankananyola/ryankananyola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
