@@ -9,6 +9,10 @@ Yohanes Febryan Kana Nyola | Yogyakarta, Indonesia
 ###  ✉ How to reach me
 
 **[LinkedIn](https://www.linkedin.com/in/yohanesfebryan/)** | **[Email](mailto:kananyolaryan@gmail.com)**
+
+<a href="https://www.linkedin.com/in/yohanesfebryan/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+</a>
 <!---
 ryankananyola/ryankananyola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
