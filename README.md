@@ -6,7 +6,8 @@ I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
 ###  📋 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankananyola&theme=material-palenight&compact=true&layout=compact)](https://github.com/ryankananyola/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankananyola&theme=material-palenight&layout=compact)](https://github.com/ryankananyola/)
+
 
 ###  ✉ How to reach me
 
