@@ -11,7 +11,7 @@ I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
 ###  ✉ How to reach me
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/yohanesfebryan/">LinkedIn</a><br>
