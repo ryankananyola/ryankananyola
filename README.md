@@ -11,7 +11,7 @@ I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
 ###  ✉ How to reach me
 
-**[LinkedIn](https://www.linkedin.com/in/yohanesfebryan/)** | **[Email](mailto:kananyolaryan@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/yohanesfebryan/)** | **[Email](mailto:kananyolaryan@gmail.com)** | **[Instagram](https://www.instagram.com/ryankananyola)**
 
 <a href="https://www.linkedin.com/in/yohanesfebryan/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
