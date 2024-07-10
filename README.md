@@ -11,26 +11,28 @@ I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
 ###  ✉ How to reach me
 
-<div style="text-align: center;">
-    <div style="display: inline-block; margin: 10px;">
-        <a href="https://www.linkedin.com/in/yohanesfebryan/">LinkedIn</a>
-        <a href="https://www.linkedin.com/in/yohanesfebryan/">
-            <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png" alt="LinkedIn"/>
-        </a>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <a href="mailto:kananyolaryan@gmail.com">Email</a>
-        <a href="mailto:kananyolaryan@gmail.com">
-            <img src="https://img.icons8.com/material-outlined/30/689d6a/email.png" alt="Email"/>
-        </a>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <a href="https://www.instagram.com/ryankananyola">Instagram</a>
-        <a href="https://www.instagram.com/ryankananyola">
-            <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png" alt="Instagram"/>
-        </a>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yohanesfebryan/">LinkedIn</a><br>
+      <a href="https://www.linkedin.com/in/yohanesfebryan/">
+        <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:kananyolaryan@gmail.com">Email</a><br>
+      <a href="mailto:kananyolaryan@gmail.com">
+        <img src="https://img.icons8.com/material-outlined/30/689d6a/email.png" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/ryankananyola">Instagram</a><br>
+      <a href="https://www.instagram.com/ryankananyola">
+        <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!---
