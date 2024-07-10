@@ -19,6 +19,10 @@ I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 <a href="mailto:kananyolaryan@gmail.com">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/email.png"/>
 </a>
+<a href="mailto:kananyolaryan@gmail.com">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/instagram.png"/>
+</a>
+
 
 <!---
 ryankananyola/ryankananyola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
