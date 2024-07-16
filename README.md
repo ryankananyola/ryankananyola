@@ -2,7 +2,7 @@ Hi there!🙌
 
 Yohanes Febryan Kana Nyola | Yogyakarta, Indonesia
 
-Saya adalah mahasiswa sarjana Informatika di UPN Veteran Yogyakarta.
+I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
 ### 📋 Stats
 
