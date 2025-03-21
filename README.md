@@ -4,9 +4,13 @@ Yohanes Febryan Kana Nyola | Yogyakarta, Indonesia
 
 I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
-### 📋 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryankananyola&theme=material-palenight&layout=compact)](https://github.com/ryankananyola/)
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ryankananyola">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryankananyola&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryankananyola&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### ✉ How to reach me
 
