@@ -4,6 +4,8 @@ Yohanes Febryan Kana Nyola | Yogyakarta, Indonesia
 
 I am an undergraduate student in Informatics at UPN Veteran Yogyakarta.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryankananyola)](https://github.com/ryankananyola/github-profile-trophy)
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/ryankananyola">
